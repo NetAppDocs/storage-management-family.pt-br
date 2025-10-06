@@ -1,0 +1,15 @@
+---
+settings:
+  name: NetApp Console storage management
+  internal:
+    pdf_enabled: false
+    lipi_enabled: true
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+    lipi_enabled: false
+  langs: pt-br,us-en,de-de,es-es,fr-fr,it-it,ja-jp,ko-kr,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: Documentação de gerenciamento de armazenamento do NetApp Console
+    url: "/index.html"
