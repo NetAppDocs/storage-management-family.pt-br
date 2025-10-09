@@ -39,7 +39,7 @@ product-family:
     url: "../console-setup-admin/index.html"
     summary: Aprenda como começar a usar o NetApp Console e administrar o gerenciamento
       de identidade e acesso, agentes e muito mais.
-    tags: all,connectors,iam
+    tags: all,console
   - title: Serviços de dados NetApp
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
@@ -84,7 +84,7 @@ product-family:
   - title: Google Cloud NetApp Volumes
     icon: "./media/icon-cvs.png"
     url: "../storage-management-google-cloud-netapp-volumes/index.html"
-    summary: Proteja, proteja e acelere seu armazenamento de arquivos.
+    summary: Serviço de armazenamento de arquivos de alto desempenho no Google Cloud.
     tags: all,storage,gcp
   - title: Armazenamento em nuvem do Google
     icon: "./media/icon-google-cloud-storage.png"
