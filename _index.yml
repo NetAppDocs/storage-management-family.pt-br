@@ -19,9 +19,9 @@ product-family:
     tags: azure
   - title: Google Cloud
     tags: gcp
-  - title: Serviços de dados NetApp
+  - title: NetApp Data Services
     tags: data services
-  - title: Console NetApp
+  - title: NetApp Console
     tags: console
   - title: No local
     tags: on-prem
@@ -34,13 +34,13 @@ product-family:
     summary: Saiba o que há de novo no gerenciamento de armazenamento do NetApp Console
       e nos serviços de dados do NetApp .
     tags: all
-  - title: Administração do console NetApp
+  - title: Administração do NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: Aprenda como começar a usar o NetApp Console e administrar o gerenciamento
       de identidade e acesso, agentes e muito mais.
     tags: all,console
-  - title: Serviços de dados NetApp
+  - title: NetApp Data Services
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: Explore os serviços de dados da NetApp para proteger e proteger sua infraestrutura
