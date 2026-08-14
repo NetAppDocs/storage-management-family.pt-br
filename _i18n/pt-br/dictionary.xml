@@ -39,4 +39,6 @@
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="a36df6033de16c49cfa4f18bcdec18c4" category="sidebar">Gerencie seus sistemas StorageGRID .</block>
   <block id="228961654a1973046cdceb22f94daf65" category="sidebar">Documentação de gerenciamento de armazenamento do NetApp Console</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabalho</block>
+  <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">Automatize o provisionamento, a governança e o ciclo de vida do FSx para ONTAP. Explore a redução de custos e o gerenciamento avançado.</block>
 </blocks>
