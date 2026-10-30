@@ -29,81 +29,67 @@ product-family:
     tags: subscriptions
   tiles:
   - title: Notas de lançamento
-    icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
     summary: Saiba o que há de novo no gerenciamento de armazenamento do NetApp Console
       e nos serviços de dados do NetApp .
     tags: all
   - title: Administração do NetApp Console
-    icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: Aprenda como começar a usar o NetApp Console e administrar o gerenciamento
       de identidade e acesso, agentes e muito mais.
     tags: all,console
   - title: NetApp Data Services
-    icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: Explore os serviços de dados da NetApp para proteger e proteger sua infraestrutura
       de dados.
     tags: all,data services
   - title: Amazon FSx for NetApp ONTAP
-    icon: "./media/icon-fsx.png"
     url: "../storage-management-fsx-ontap/index.html"
     summary: Use todos os recursos do ONTAP como um serviço nativo gerenciado pela
       AWS.
     tags: all, aws
   - title: Armazenamento Amazon S3
-    icon: "./media/icon-s3.png"
     url: "../storage-management-s3-storage/index.html"
     summary: Descubra e gerencie os buckets do Amazon S3 em suas contas da AWS.
     tags: all,aws
   - title: Armazenamento de Blobs do Azure
-    icon: "./media/icon-azure-blob.png"
     url: "../storage-management-blob-storage/index.html"
     summary: Descubra e gerencie o armazenamento de Blobs do Azure em suas assinaturas
       do Azure.
     tags: all,azure
   - title: Azure NetApp Files
-    icon: "./media/icon-anf.png"
     url: "../storage-management-azure-netapp-files/index.html"
     summary: Serviço de armazenamento de arquivos de alto desempenho no Azure para
       seus principais aplicativos de negócios.
     tags: all,storage,azure
   - title: Cloud Volumes ONTAP
-    icon: "./media/icon-cvo.png"
     url: "../storage-management-cloud-volumes-ontap/index.html"
     summary: Torne seu armazenamento em nuvem mais acessível, inteligente, compatível
       e seguro.
     tags: all,storage,aws,azure,gcp, subscriptions
   - title: Sistemas da série E
-    icon: "./media/icon-e-series.png"
     url: "../storage-management-e-series/index.html"
     summary: Descubra os sistemas da série E para uma visão completa dos dados em
       sua multinuvem híbrida.
     tags: all,on-prem
   - title: Google Cloud NetApp Volumes
-    icon: "./media/icon-cvs.png"
     url: "../storage-management-google-cloud-netapp-volumes/index.html"
     summary: Serviço de armazenamento de arquivos de alto desempenho no Google Cloud.
     tags: all,storage,gcp
   - title: Armazenamento em nuvem do Google
-    icon: "./media/icon-google-cloud-storage.png"
     url: "../storage-management-google-cloud-storage/index.html"
     summary: Descubra e gerencie os buckets do Cloud Storage na sua conta do Google.
     tags: all,gcp
   - title: Keystone
-    icon: "./media/icon-keystone.png"
     url: "../keystone-staas/index.html"
     summary: Acesse e gerencie sua assinatura do Keystone no NetApp Console.
     tags: all,subscriptions
   - title: Clusters ONTAP locais
-    icon: "./media/icon-onprem.png"
     url: "../storage-management-ontap-onprem/index.html"
     summary: Gerencie seus clusters ONTAP locais no NetApp Console usando o System
       Manager e os serviços de dados do NetApp .
     tags: all,on-prem
   - title: StorageGRID
-    icon: "./media/icon-storagegrid.png"
     url: "../storage-management-storagegrid/index.html"
     summary: Gerencie seus sistemas StorageGRID .
     tags: all,on-prem
